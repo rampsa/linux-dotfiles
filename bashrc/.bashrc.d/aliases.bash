@@ -1,0 +1,6 @@
+alias ..="cd .."
+alias ...="cd ../../"
+alias c="clear"
+alias code="cd ~/code"
+alias ls="ls -l --color=auto"
+alias lsa="ls -la --color=auto"
